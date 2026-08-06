@@ -35,7 +35,8 @@ class ESC50(AudioDataset):
     }
 
     def __init__(self, root, reading_transformations: nn.Module = None, download: bool = True):
-        super().__init__(root)
+        super().__init__(root, download=download)
+        self.dataset_root = self._resolve_dataset_root()
         self._load_meta()
 
         self.targets, self.audio_paths = [], []
@@ -45,12 +46,24 @@ class ESC50(AudioDataset):
         self.df['category'] = self.df['category'].str.replace('_',' ')
 
         for _, row in tqdm(self.df.iterrows()):
-            file_path = os.path.join(self.root, self.base_folder, self.audio_dir, row[self.file_col])
+            file_path = os.path.join(self.dataset_root, self.audio_dir, row[self.file_col])
             self.targets.append(row[self.label_col])
             self.audio_paths.append(file_path)
 
+    def _resolve_dataset_root(self):
+        root = Path(self.root)
+        candidates = (root, root / 'ESC-50', root / self.base_folder)
+        for candidate in candidates:
+            if (candidate / self.meta['filename']).is_file() and (candidate / self.audio_dir).is_dir():
+                return str(candidate)
+
+        checked = ', '.join(str(candidate) for candidate in candidates)
+        raise FileNotFoundError(
+            f'Could not find an ESC-50 checkout. Checked: {checked}'
+        )
+
     def _load_meta(self):
-        path = os.path.join(self.root, self.base_folder, self.meta['filename'])
+        path = os.path.join(self.dataset_root, self.meta['filename'])
 
         self.df = pd.read_csv(path)
         self.class_to_idx = {}
