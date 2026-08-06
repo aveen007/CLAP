@@ -354,3 +354,6 @@ dist/
 
 venv/
 root_path/
+
+# Projection experiment artifacts (prompt manifests remain tracked).
+projection/outputs/

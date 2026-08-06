@@ -1,0 +1,50 @@
+{"id":"esc50_airplane","text":"this is the sound of airplane","split":"esc50_test","class_name":"airplane","category":"esc50","concept_group":"airplane"}
+{"id":"esc50_breathing","text":"this is the sound of breathing","split":"esc50_test","class_name":"breathing","category":"esc50","concept_group":"breathing"}
+{"id":"esc50_brushing_teeth","text":"this is the sound of brushing teeth","split":"esc50_test","class_name":"brushing teeth","category":"esc50","concept_group":"brushing_teeth"}
+{"id":"esc50_can_opening","text":"this is the sound of can opening","split":"esc50_test","class_name":"can opening","category":"esc50","concept_group":"can_opening"}
+{"id":"esc50_car_horn","text":"this is the sound of car horn","split":"esc50_test","class_name":"car horn","category":"esc50","concept_group":"car_horn"}
+{"id":"esc50_cat","text":"this is the sound of cat","split":"esc50_test","class_name":"cat","category":"esc50","concept_group":"cat"}
+{"id":"esc50_chainsaw","text":"this is the sound of chainsaw","split":"esc50_test","class_name":"chainsaw","category":"esc50","concept_group":"chainsaw"}
+{"id":"esc50_chirping_birds","text":"this is the sound of chirping birds","split":"esc50_test","class_name":"chirping birds","category":"esc50","concept_group":"chirping_birds"}
+{"id":"esc50_church_bells","text":"this is the sound of church bells","split":"esc50_test","class_name":"church bells","category":"esc50","concept_group":"church_bells"}
+{"id":"esc50_clapping","text":"this is the sound of clapping","split":"esc50_test","class_name":"clapping","category":"esc50","concept_group":"clapping"}
+{"id":"esc50_clock_alarm","text":"this is the sound of clock alarm","split":"esc50_test","class_name":"clock alarm","category":"esc50","concept_group":"clock_alarm"}
+{"id":"esc50_clock_tick","text":"this is the sound of clock tick","split":"esc50_test","class_name":"clock tick","category":"esc50","concept_group":"clock_tick"}
+{"id":"esc50_coughing","text":"this is the sound of coughing","split":"esc50_test","class_name":"coughing","category":"esc50","concept_group":"coughing"}
+{"id":"esc50_cow","text":"this is the sound of cow","split":"esc50_test","class_name":"cow","category":"esc50","concept_group":"cow"}
+{"id":"esc50_crackling_fire","text":"this is the sound of crackling fire","split":"esc50_test","class_name":"crackling fire","category":"esc50","concept_group":"crackling_fire"}
+{"id":"esc50_crickets","text":"this is the sound of crickets","split":"esc50_test","class_name":"crickets","category":"esc50","concept_group":"crickets"}
+{"id":"esc50_crow","text":"this is the sound of crow","split":"esc50_test","class_name":"crow","category":"esc50","concept_group":"crow"}
+{"id":"esc50_crying_baby","text":"this is the sound of crying baby","split":"esc50_test","class_name":"crying baby","category":"esc50","concept_group":"crying_baby"}
+{"id":"esc50_dog","text":"this is the sound of dog","split":"esc50_test","class_name":"dog","category":"esc50","concept_group":"dog"}
+{"id":"esc50_door_wood_creaks","text":"this is the sound of door wood creaks","split":"esc50_test","class_name":"door wood creaks","category":"esc50","concept_group":"door_wood_creaks"}
+{"id":"esc50_door_wood_knock","text":"this is the sound of door wood knock","split":"esc50_test","class_name":"door wood knock","category":"esc50","concept_group":"door_wood_knock"}
+{"id":"esc50_drinking_sipping","text":"this is the sound of drinking sipping","split":"esc50_test","class_name":"drinking sipping","category":"esc50","concept_group":"drinking_sipping"}
+{"id":"esc50_engine","text":"this is the sound of engine","split":"esc50_test","class_name":"engine","category":"esc50","concept_group":"engine"}
+{"id":"esc50_fireworks","text":"this is the sound of fireworks","split":"esc50_test","class_name":"fireworks","category":"esc50","concept_group":"fireworks"}
+{"id":"esc50_footsteps","text":"this is the sound of footsteps","split":"esc50_test","class_name":"footsteps","category":"esc50","concept_group":"footsteps"}
+{"id":"esc50_frog","text":"this is the sound of frog","split":"esc50_test","class_name":"frog","category":"esc50","concept_group":"frog"}
+{"id":"esc50_glass_breaking","text":"this is the sound of glass breaking","split":"esc50_test","class_name":"glass breaking","category":"esc50","concept_group":"glass_breaking"}
+{"id":"esc50_hand_saw","text":"this is the sound of hand saw","split":"esc50_test","class_name":"hand saw","category":"esc50","concept_group":"hand_saw"}
+{"id":"esc50_helicopter","text":"this is the sound of helicopter","split":"esc50_test","class_name":"helicopter","category":"esc50","concept_group":"helicopter"}
+{"id":"esc50_hen","text":"this is the sound of hen","split":"esc50_test","class_name":"hen","category":"esc50","concept_group":"hen"}
+{"id":"esc50_insects","text":"this is the sound of insects","split":"esc50_test","class_name":"insects","category":"esc50","concept_group":"insects"}
+{"id":"esc50_keyboard_typing","text":"this is the sound of keyboard typing","split":"esc50_test","class_name":"keyboard typing","category":"esc50","concept_group":"keyboard_typing"}
+{"id":"esc50_laughing","text":"this is the sound of laughing","split":"esc50_test","class_name":"laughing","category":"esc50","concept_group":"laughing"}
+{"id":"esc50_mouse_click","text":"this is the sound of mouse click","split":"esc50_test","class_name":"mouse click","category":"esc50","concept_group":"mouse_click"}
+{"id":"esc50_pig","text":"this is the sound of pig","split":"esc50_test","class_name":"pig","category":"esc50","concept_group":"pig"}
+{"id":"esc50_pouring_water","text":"this is the sound of pouring water","split":"esc50_test","class_name":"pouring water","category":"esc50","concept_group":"pouring_water"}
+{"id":"esc50_rain","text":"this is the sound of rain","split":"esc50_test","class_name":"rain","category":"esc50","concept_group":"rain"}
+{"id":"esc50_rooster","text":"this is the sound of rooster","split":"esc50_test","class_name":"rooster","category":"esc50","concept_group":"rooster"}
+{"id":"esc50_sea_waves","text":"this is the sound of sea waves","split":"esc50_test","class_name":"sea waves","category":"esc50","concept_group":"sea_waves"}
+{"id":"esc50_sheep","text":"this is the sound of sheep","split":"esc50_test","class_name":"sheep","category":"esc50","concept_group":"sheep"}
+{"id":"esc50_siren","text":"this is the sound of siren","split":"esc50_test","class_name":"siren","category":"esc50","concept_group":"siren"}
+{"id":"esc50_sneezing","text":"this is the sound of sneezing","split":"esc50_test","class_name":"sneezing","category":"esc50","concept_group":"sneezing"}
+{"id":"esc50_snoring","text":"this is the sound of snoring","split":"esc50_test","class_name":"snoring","category":"esc50","concept_group":"snoring"}
+{"id":"esc50_thunderstorm","text":"this is the sound of thunderstorm","split":"esc50_test","class_name":"thunderstorm","category":"esc50","concept_group":"thunderstorm"}
+{"id":"esc50_toilet_flush","text":"this is the sound of toilet flush","split":"esc50_test","class_name":"toilet flush","category":"esc50","concept_group":"toilet_flush"}
+{"id":"esc50_train","text":"this is the sound of train","split":"esc50_test","class_name":"train","category":"esc50","concept_group":"train"}
+{"id":"esc50_vacuum_cleaner","text":"this is the sound of vacuum cleaner","split":"esc50_test","class_name":"vacuum cleaner","category":"esc50","concept_group":"vacuum_cleaner"}
+{"id":"esc50_washing_machine","text":"this is the sound of washing machine","split":"esc50_test","class_name":"washing machine","category":"esc50","concept_group":"washing_machine"}
+{"id":"esc50_water_drops","text":"this is the sound of water drops","split":"esc50_test","class_name":"water drops","category":"esc50","concept_group":"water_drops"}
+{"id":"esc50_wind","text":"this is the sound of wind","split":"esc50_test","class_name":"wind","category":"esc50","concept_group":"wind"}
